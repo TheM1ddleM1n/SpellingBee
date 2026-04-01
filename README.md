@@ -39,12 +39,12 @@ A high-octane, minimalist typing challenge where speed and accuracy are your onl
 
 ### 💀 Boss Word Hall of Shame
 Includes some of the most unhinged words in the English language:
-- `chargoggagoggmanchauggagoggchaubunagungamaugg` - lake lol
+- `chargoggagoggmanchauggagoggchaubunagungamaugg`
 - `pneumonoultramicroscopicsilicovolcanoconiosis`
 - `antidisestablishmentarianism`
 - `floccinaucinihilipilification`
 - `hippopotomonstrosesquippedaliophobia`
-- …and more.
+- etc
 
 ### 🎯 Stats & Tracking
 - Per-run stats: Best WPM, Average WPM, Accuracy, Best Streak
